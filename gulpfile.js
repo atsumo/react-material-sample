@@ -24,4 +24,4 @@ gulp.task('css', function() {
 });
 
 
-gulp.task('default', ['browserify', 'css']);
+gulp.task('default', ['browserify']);
